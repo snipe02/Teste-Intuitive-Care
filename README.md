@@ -1,0 +1,2 @@
+# Teste-Intuitive-Care
+TESTE DE ENTRADA PARA ESTAGIÁRIOS v2.0 

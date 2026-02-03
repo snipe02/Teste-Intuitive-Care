@@ -20,7 +20,7 @@ ______________________________________________________
 
 <------------
 
-obrigado pela oportunidade, pelos testes, eu estudei dados quando fiz o TDS em 2020/ mais foi bom resfrecar a mente e entender um pouco de novo como fuciona, eu so parei um pouco de praticar dados, mais gostaria de um estagio, ganhar mais conhecimentos com proficionas, ser um bom proficionais futuramente,plano,senio. um estagio para meu currículo é um grande diferencial mais destacado.
+obrigado pela oportunidade, pelos testes, eu estudei dados quando fiz o TDS em 2020/ mais foi bom resfrecar a mente e entender um pouco de novo como fuciona, eu so parei um pouco de praticar dados, mais gostaria de um estagio, ganhar mais conhecimentos com proficionas, ser um bom proficionais futuramente,pleno,senio. um estagio para meu currículo é um grande diferencial mais destacado.
 
 <------------
 ________________________________________________________________

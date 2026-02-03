@@ -20,6 +20,6 @@ para você usar o codigo so basta voce pegar e colar no google colab por que ja 
 
 obrigado pela oportunidade, pelos testes, eu estudava  dados quando fazia o TDS em 2020/ mais foi bom resfrecar a mente e entender um pouco de novo como fuciona, eu so parei um pouco de praticar dados, mais gostaria  de um  estagio, ganhar mais conhecimentos com proficionas, ser um bom proficionais futuramente,plano,senio. um estagio para meu curricsera é um grande diferencial mais destacado.
 
-
+s
 
 

@@ -18,7 +18,7 @@ ________________________________________________________________________________
 codigo feito no Google colab, Junta 3 arquivos CSV trimestrais em um único dataset, Padroniza os nomes das colunas (encontra CNPJ, Razão Social, Valor), Valida cada registro baseado em 3 critérios, Separa os dados em "corretos" e "com erro" Exporta 3 arquivos distintos para análise, Contém tanto dados corretos quanto com problemas, Dados que precisam de revisão/correção.
 para você usar o codigo so basta voce pegar e colar no google colab por que ja vem varias bibliotecas prontos como Pandas, NumPy, Matplitlib etc...perfeito para dados.
 
-obrigado pela oportunidade, pelos testes, eu estudava  dados quando fazia o TDS em 2020/ mais foi bom resfrecar a mente e entender um pouco de novo como fuciona, eu so parei um pouco de praticar dados, mais gostaria  de um  estagio, ganhar mais conhecimentos com proficionas, ser um bom proficional futuramente,plano,senio. um estagio para meu curricsera é um grande diferencial mais destacado.
+obrigado pela oportunidade, pelos testes, eu estudava  dados quando fazia o TDS em 2020/ mais foi bom resfrecar a mente e entender um pouco de novo como fuciona, eu so parei um pouco de praticar dados, mais gostaria  de um  estagio, ganhar mais conhecimentos com proficionas, ser um bom proficionais futuramente,plano,senio. um estagio para meu curricsera é um grande diferencial mais destacado.
 
 
 

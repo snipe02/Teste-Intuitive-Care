@@ -12,4 +12,4 @@ ________________________________________________________________________________
 <h4>Teste1.3 
 
 foi feito em python csv no google colab, e pandas e algumas mais bibliotecas, manipulação, Funções nativas etc.. a solução implementa uma estratégia direta para identificação e consolidação de arquivos. algums problemas muito lento para arquivos grandes, busca todas as células de todos os arquivos, o que pode ser otimizado dependendo do volume de dados. O código não tratou adequadamente a questão do processamento pesado, mais  implementou uma solução funcional resolvido o problema.
-
+1º para poder executar corretamente precisar colcoar os arqivos csv todos em uma pasta so no mesmo lugara a onde estiver  programando.
